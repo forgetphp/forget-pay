@@ -11,7 +11,7 @@
 ## 安装
 
 ```shell
-composer require yansongda/hyperf-pay:~1.2.0
+composer require brian/hyperf-pay:~1.2.0
 ```
 
 ## 说明
@@ -19,7 +19,7 @@ composer require yansongda/hyperf-pay:~1.2.0
 ### 发布配置文件
 
 ```shell
-php bin/hyperf.php vendor:publish yansongda/hyperf-pay
+php bin/hyperf.php vendor:publish brian/hyperf-pay
 ```
 
 ### 使用
